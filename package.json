@@ -8,8 +8,8 @@
   "dependencies": {
     "express-resource-new": "git://github.com/tpeden/express-resource-new.git#175c2ad84cc6d3ac2b509d720b9ce583d7e8afb3",
     "express-mongoose": "~0.1.0",
-    "express": "~3.3.5",
-    "mongoose": "~3.6.16"
+    "express": "~4.14.0",
+    "mongoose": "~4.6.6"
   },
   "description": "",
   "main": "server.js",
